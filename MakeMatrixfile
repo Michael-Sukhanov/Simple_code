@@ -1,0 +1,2 @@
+all:
+	g++ Source.cpp Matrix.cpp Matrix.h -o Matrix
